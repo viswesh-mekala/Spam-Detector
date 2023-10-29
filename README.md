@@ -1,4 +1,4 @@
-# Spam-Detector
+# Spam-Detector 
 
 A spam detector is a computer program or system designed to identify and filter out unsolicited or unwanted messages, typically found in emails, text messages, or other forms of digital communication. The primary purpose of a spam detector is to distinguish between legitimate and illegitimate messages, helping users avoid clutter in their inboxes and potential security risks associated with malicious or fraudulent content.
 
